@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Reverse a String",
+    "description": "Write a method in C# that takes a string as input and returns a new string with the characters reversed. (e.g., 'hello' -> 'olleh')"
+  },
+  {
+    "title": "Looping through a List",
+    "description": "Implement a loop (for or foreach) that iterates through a List<int> and prints each element."
+  },
+  {
+    "title": "Class and Properties",
+    "description": "Define a class named 'Product' with properties like name, price, and a constructor to initialize them."
+  },
+  {
+    "title": "Inheritance Example",
+    "description": "Create a base class 'Shape' with a method to calculate area. Then, create subclasses like 'Square' and 'Circle' that inherit from Shape and implement their own area calculation logic."
+  },
+  {
+    "title": "Exception Handling",
+    "description": "Write code that reads a user input for a number and validates it to be an integer using a try-catch block to handle potential FormatException."
+  },
+  {
+    "title": "List Manipulation",
+    "description": "Create a List<string> and demonstrate adding, removing, and accessing elements using its methods (e.g., Add, RemoveAt, IndexOf)."
+  },
+  {
+    "title": "Multidimensional Arrays",
+    "description": "Declare and initialize a 2D array of integers and iterate through it using nested loops to print each element."
+  },
+  {
+    "title": "Method Overloading",
+    "description": "Define a method 'calculateVolume' that can take different argument combinations (e.g., calculate volume of cube vs cylinder) to achieve polymorphism."
+  },
+  {
+    "title": "Interface Example",
+    "description": "Create an interface 'Drawable' with a method 'draw()'. Implement this interface in a class 'Shape' and extend it further for specific shapes (e.g., Circle, Square) that provide their own implementations of 'draw()'."
+  },
+  {
+    "title": "Collections.sort()",
+    "description": "Utilize the List.Sort() method to sort a list of custom objects based on a specific property (e.g., sort a list of employees by name)."
+  },
+  {
+    "title": "Nullable Types",
+    "description": "Explain the purpose of nullable types in C# (int?, string?) and demonstrate their usage for potentially missing values."
+  },
+  {
+    "title": "String Interpolation",
+    "description": "Write code that demonstrates the use of string interpolation ($'') for formatted string creation compared to string concatenation."
+  },
+  {
+    "title": "Access Modifiers (Public, Private)",
+    "description": "Define a class with private and public members. Explain the difference in accessibility based on these modifiers."
+  },
+  {
+    "title": "Static Members",
+    "description": "Create a class with a static method that calculates the factorial of a number and a static variable for storing a constant value. Demonstrate their usage."
+  },
+  {
+    "title": "Nested Classes",
+    "description": "Define a class with a nested class example. Explain the purpose and use cases of nested classes in C#."
+  },
+  {
+    "title": "Abstract Classes",
+    "description": "Create an abstract class 'Shape' with abstract methods for area and perimeter calculations. Extend it with concrete classes like 'Circle' and 'Rectangle' that implement those methods."
+  },
+  {
+    "title": "Delegates & Events",
+    "description": "Simulate a simple event handling scenario using delegates and events in C#. (e.g., button click event triggering a specific action)"
+  },
+  {
+    "title": "File I/O (Read)",
+    "description": "Implement code that reads the contents of a text file line by line using a StreamReader object."
+  },
+  {
+    "title": "File I/O (Write)",
+    "description": "Create code that writes a specific message to a new text file using a StreamWriter object."
+  }
+]

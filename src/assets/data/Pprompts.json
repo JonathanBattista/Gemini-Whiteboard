@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Reverse a String",
+    "description": "Write a function that takes a string as input and returns a new string with the characters reversed. (e.g., 'hello' -> 'olleh')"
+  },
+  {
+    "title": "List Comprehensions",
+    "description": "Create a list using list comprehension that squares all the numbers from 1 to 10."
+  },
+  {
+    "title": "Looping through a Dictionary",
+    "description": "Write code that iterates through a dictionary and prints the key-value pairs."
+  },
+  {
+    "title": "Find the Maximum Value",
+    "description": "Implement a function that takes a list of numbers as input and returns the maximum value within the list."
+  },
+  {
+    "title": "Prime Number Check",
+    "description": "Create a function that checks if a given number is a prime number and returns True/False accordingly."
+  },
+  {
+    "title": "File I/O - Read a File",
+    "description": "Write code that reads the contents of a text file line by line and prints each line."
+  },
+  {
+    "title": "File I/O - Write to a File",
+    "description": "Implement code that creates a new text file and writes a specific message to it."
+  },
+  {
+    "title": "Function Arguments",
+    "description": "Create a function that takes two numbers as arguments and returns their sum. Then, call the function with different values."
+  },
+  {
+    "title": "Recursive Function",
+    "description": "Write a recursive function that calculates the factorial of a given number."
+  },
+  {
+    "title": "Exception Handling",
+    "description": "Implement code that attempts to divide two numbers and handles a potential ZeroDivisionError using a try-except block."
+  },
+  {
+    "title": "List Slicing",
+    "description": "Write code that extracts a specific sub-portion of a list using slicing syntax (e.g., get every other element)."
+  },
+  {
+    "title": "String Formatting",
+    "description": "Create a string using f-strings that combines a name and age variable into a formatted sentence."
+  },
+  {
+    "title": "Lambda Functions",
+    "description": "Write a lambda function that squares a number and demonstrate how to use it within your code."
+  },
+  {
+    "title": "Modules & Imports",
+    "description": "Import the math module and use its functionalities (e.g., calculate the square root of a number)."
+  },
+  {
+    "title": "List Sorting",
+    "description": "Create a list of random numbers and sort them in ascending order using the built-in sort() method."
+  },
+  {
+    "title": "Dictionary Methods",
+    "description": "Write code that demonstrates the usage of common dictionary methods like get(), keys(), and values()."
+  },
+  {
+    "title": "Custom Data Structures",
+    "description": "Implement a basic stack data structure using a list and define methods for push and pop operations."
+  },
+  {
+    "title": "Regular Expressions (Basic)",
+    "description": "Write a regular expression that validates a simple email address format (basic check for '@' and '.')."
+  },
+  {
+    "title": "Command-Line Arguments",
+    "description": "Create a script that takes command-line arguments and performs an action based on them (e.g., calculate area based on provided length and width)."
+  },
+  {
+    "title": "Web Scraping (Basic)",
+    "description": "Simulate a basic web scraping scenario using a library like beautifulsoup4 to extract specific data from a simple webpage."
+  }
+]

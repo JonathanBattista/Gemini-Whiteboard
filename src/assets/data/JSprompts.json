@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Reverse a String",
+    "description": "Write a function that takes a string as input and returns a new string with the characters reversed. (e.g., 'hello' -> 'olleh')"
+  },
+  {
+    "title": "FizzBuzz",
+    "description": "Implement a function that iterates through a range of numbers (1-100) and prints 'Fizz' for multiples of 3, 'Buzz' for multiples of 5, and 'FizzBuzz' for multiples of both."
+  },
+  {
+    "title": "Sum of an Array",
+    "description": "Create a function that takes an array of numbers as input and returns the sum of all elements within the array."
+  },
+  {
+    "title": "Linear Search",
+    "description": "Write a function that takes an array and a target value as input and returns the index of the target value if found, otherwise returns -1."
+  },
+  {
+    "title": "Check for Palindrome",
+    "description": "Implement a function that checks if a given string is a palindrome (reads the same backward as forward). (e.g., 'racecar')"
+  },
+  {
+    "title": "Change Element Color",
+    "description": "Write code that selects an element with a specific ID on a webpage and changes its background color on button click. (Use DOM methods like document.getElementById and element.style)"
+  },
+  {
+    "title": "Toggle Visibility",
+    "description": "Create code that toggles the visibility of a specific element on the page (hide/show) when a user clicks a button. (Utilize element.style.display property)"
+  },
+  {
+    "title": "Create a List",
+    "description": "Implement code that dynamically adds a new list item to an existing unordered list (UL) when a user enters text in an input field and clicks a button. (Use DOM methods for element creation and manipulation)"
+  },
+  {
+    "title": "Form Validation",
+    "description": "Write JavaScript code that validates a simple form with an email input field before submission. Ensure the entered email format is valid (basic check for '@' and '.')"
+  },
+  {
+    "title": "Event Listener Example",
+    "description": "Create code that listens for a 'mouseover' event on an image element and displays a message in a paragraph element below the image when triggered."
+  },
+  {
+    "title": "Higher-Order Function",
+    "description": "Write a function that takes another function as an argument (callback) and executes the callback function with a provided value."
+  },
+  {
+    "title": "Arrow Functions",
+    "description": "Implement a function using arrow function syntax that calculates the area of a circle given its radius as input. (Utilize Math.PI constant)"
+  },
+  {
+    "title": "Default Parameters",
+    "description": "Create a function with default parameter values for width and height. The function should calculate the area of a rectangle based on the provided or default values."
+  },
+  {
+    "title": "Closures",
+    "description": "Write code that demonstrates the concept of closures in JavaScript. Create a function that returns another function that has access to a variable defined within the outer function's scope."
+  },
+  {
+    "title": "Function Composition",
+    "description": "Implement a function that takes two other functions as arguments and composes them. The composed function should execute the first function and then pass the result to the second function as input."
+  },
+  {
+    "title": "Simulate an API Request",
+    "description": "Write code that simulates an AJAX request to a fictional API endpoint and displays a success message upon successful retrieval of data. (Use techniques like setTimeout to simulate network delay)"
+  },
+  {
+    "title": "Fetch API Example",
+    "description": "Create code that utilizes the Fetch API to fetch data from a real or mock API endpoint and display the retrieved data in a specific section of the webpage. (Parse the JSON response)"
+  },
+  {
+    "title": "Handle Errors",
+    "description": "Implement code that fetches data from an API and displays an error message if the request fails (e.g., network error, 404 status code)."
+  },
+  {
+    "title": "Promise Example",
+    "description": "Write code that demonstrates the use of Promises in JavaScript"
+  }
+]

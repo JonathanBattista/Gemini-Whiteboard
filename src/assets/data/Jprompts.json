@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Reverse a String",
+    "description": "Write a method in Java that takes a String as input and returns a new String with the characters reversed. (e.g., 'hello' -> 'olleh')"
+  },
+  {
+    "title": "Looping through an Array",
+    "description": "Implement a loop (for or while) that iterates through an array of integers and prints each element."
+  },
+  {
+    "title": "Object and Attributes",
+    "description": "Define a class named 'Person' with attributes like name, age, and a method to introduce itself with those details."
+  },
+  {
+    "title": "Inheritance Example",
+    "description": "Create a base class 'Animal' with a method to make a sound. Then, create subclasses like 'Dog' and 'Cat' that inherit from Animal and override the sound method with specific animal sounds."
+  },
+  {
+    "title": "Exception Handling",
+    "description": "Write code that reads a user input for age and validates it to be a positive integer. Use a try-catch block to handle potential NumberFormatException."
+  },
+  {
+    "title": "ArrayList Manipulation",
+    "description": "Create an ArrayList of Strings and demonstrate adding, removing, and accessing elements using its methods."
+  },
+  {
+    "title": "Multidimensional Arrays",
+    "description": "Declare and initialize a 2D array of integers and iterate through it using nested loops to print each element."
+  },
+  {
+    "title": "Method Overloading",
+    "description": "Define a method 'calculateArea' that can take different argument combinations (e.g., calculate area of square vs rectangle) to achieve polymorphism."
+  },
+  {
+    "title": "Interface Example",
+    "description": "Create an interface 'Drawable' with a method 'draw()'. Implement this interface in a class 'Shape' and extend it further for specific shapes (e.g., Circle, Square) that provide their own implementations of 'draw()'."
+  },
+  {
+    "title": "Collections Framework",
+    "description": "Utilize the Collections framework to sort a list of custom objects based on a specific attribute (e.g., sort a list of students by name)."
+  },
+  {
+    "title": "Wrapper Classes",
+    "description": "Explain the purpose of wrapper classes in Java (e.g., Integer, Double) and demonstrate their usage for primitive data types."
+  },
+  {
+    "title": "String Manipulation (StringBuilder)",
+    "description": "Write code that demonstrates the use of StringBuilder for efficient string modification compared to String concatenation."
+  },
+  {
+    "title": "Access Modifiers",
+    "description": "Define a class with private, public, and protected attributes and methods. Explain the difference in accessibility based on these modifiers."
+  },
+  {
+    "title": "Static Methods & Variables",
+    "description": "Create a class with a static method that calculates the area of a circle and a static variable for pi (Math.PI). Demonstrate their usage."
+  },
+  {
+    "title": "Nested Classes",
+    "description": "Define a class with a nested class example. Explain the purpose and use cases of nested classes in Java."
+  },
+  {
+    "title": "Abstract Classes",
+    "description": "Create an abstract class 'Shape' with abstract methods for area and perimeter calculations. Extend it with concrete classes like 'Circle' and 'Rectangle' that implement those methods."
+  },
+  {
+    "title": "Concurrency (Basic)",
+    "description": "Write a simple program that utilizes threads to print even and odd numbers concurrently."
+  },
+  {
+    "title": "File I/O (Read)",
+    "description": "Implement code that reads the contents of a text file line by line using a Scanner object."
+  },
+  {
+    "title": "File I/O (Write)",
+    "description": "Create code that writes a specific message to a new text file using a FileWriter or PrintWriter object."
+  }
+]
