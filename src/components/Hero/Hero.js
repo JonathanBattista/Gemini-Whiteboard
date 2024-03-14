@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 
 const Hero = ({ category, onGeminiSolution }) => {
   const { GoogleGenerativeAI } = require("@google/generative-ai");
-  const genAI = new GoogleGenerativeAI(process.env.API_KEY);
+  const genAI = new GoogleGenerativeAI("PLACEHOLDER");
   console.log(genAI);
   const [currentPrompt, setCurrentPrompt] = useState("");
   const [prompts, setPrompts] = useState([]);
